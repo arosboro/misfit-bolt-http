@@ -41,7 +41,6 @@
     "express": "^4.17.3",
     "minimist": "^1.2.6",
     "misfit-bolt": "https://github.com/arosboro/misfit-bolt#update-packages",
-    "noble": "^1.9.1",
     "package.json": "^2.0.1",
     "pkg.json": "^2.0.8"
   },
