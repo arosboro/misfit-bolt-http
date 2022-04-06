@@ -40,7 +40,7 @@
     "debug": "^4.3.4",
     "express": "^4.17.3",
     "minimist": "^1.2.6",
-    "misfit-bolt": "https://github.com/arosboro/misfit-bolt#update-packages",
+    "misfit-bolt": "https://github.com/arosboro/misfit-bolt#update-packages"
   },
   "devDependencies": {
     "jshint": "^2.13.4"
