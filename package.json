@@ -41,8 +41,6 @@
     "express": "^4.17.3",
     "minimist": "^1.2.6",
     "misfit-bolt": "https://github.com/arosboro/misfit-bolt#update-packages",
-    "package.json": "^2.0.1",
-    "pkg.json": "^2.0.8"
   },
   "devDependencies": {
     "jshint": "^2.13.4"
